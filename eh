@@ -55,6 +55,23 @@ Step 10 : Go to password option ----http in the cain & abel and see the password
 step11: stop sniffer
 
 
+----- control panel ---virus and threat protection --turn off 
+open cain --- go tools---hash cal --click
+ test to hash -123 --copy MD5 
+
+click Cracker----- left side you will find MD5 Hashes----right click----add to list ---paste MD5 code---
+right click ----Dict acctack ---right click---add to list ----in cain >wordlists---select
+craked --exit
+
+
+same for brute force ------nothing to do 
+
+
+sniffer ---apr ---click on that + (blue button)--select any line from left and right ---ok
+
+start ---left corner yello button ---------------then click on idel
+
+ope brower ---acunetix put username \pass --- then it will shoew 
 
 
 
